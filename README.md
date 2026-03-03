@@ -1,4 +1,4 @@
-# R&D Director | Device Engineering → AI/ML | Linux Kernel Contributor | MBA
+## R&D Director | Device Engineering → AI/ML | Linux Kernel Contributor | MBA
 
 20 years building system software (Linux kernel, Android TV, Widevine DRM, IPTV).
 Now applying that systems-level rigor to ML engineering: fine-tuning, RAG pipelines,
@@ -27,6 +27,7 @@ recommendation systems, and deploying models in production environments.
 
 ### 🏅 Credentials
 - **CWIP** — Certified Widevine Implementation Partner
+- **Widevine 3PL Lab** — Device certification for Widevine on CE and AOSP
 - **Android TV Certified** — First-ever deployed Linux STB fleet migration to ATV Operator Tier
 - **Linux Kernel Mainline Contributor**
 - **MBA** — MIRBIS, AMBA Accredited
